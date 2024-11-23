@@ -1,4 +1,9 @@
-# Website
+# Learn about Cloud, AI and Data
+
+Here you will find courses, tutorials and more!
+
+
+## Contribute
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
