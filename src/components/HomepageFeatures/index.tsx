@@ -10,32 +10,34 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Einfach und verständlich',
+    Svg: require('@site/static/img/landingpage/Icon-Collage_stabile-Loesungen_DE-1.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Die STACKIT-Lernplattform wurde entwickelt, um Cloud-Konzepte einfach 
+        und verständlich zu erklären – ideal für Einsteiger und Fortgeschrittene.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Fokus auf relevante Themen',
+    Svg: require('@site/static/img/landingpage/Icon-Collage_einfache-Implemetierung.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Lernen Sie, wie moderne Technologien wie Künstliche Intelligenz, 
+        Machine Learning und Containerisierung in der Cloud umgesetzt werden können.
+        Alle Inhalte sind auf die Besonderheiten des deutschen Marktes zugeschnitten.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'STACKIT-Expertise nutzen',
+    Svg: require('@site/static/img/landingpage/Icon-Collage_EU-Sicherheit.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Profitieren Sie von STACKITs Expertise in Cloud-Lösungen und erhalten 
+        Sie Einblicke in bewährte Ansätze für datenschutzkonforme und skalierbare 
+        IT-Infrastrukturen.
       </>
     ),
   },

@@ -4,6 +4,10 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
+import ChatBot from "react-chatbotify";
+
+import MyChatBot from '../components/Chatbot/index';
+
 
 import styles from './index.module.css';
 
@@ -19,7 +23,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="/docs/category/cloud-basics">
             Cloud Einführung - 5min ⏱️
           </Link>
         </div>
@@ -38,6 +42,8 @@ export default function Home(): JSX.Element {
       <main>
         <HomepageFeatures />
       </main>
+      <MyChatBot/>
+
     </Layout>
   );
 }

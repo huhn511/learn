@@ -18,10 +18,14 @@
     "@docusaurus/core": "3.6.1",
     "@docusaurus/preset-classic": "3.6.1",
     "@mdx-js/react": "^3.0.0",
+    "@react-three/fiber": "^8.17.10",
+    "@types/three": "^0.170.0",
     "clsx": "^2.0.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-chatbotify": "^2.0.0-beta.24",
+    "react-dom": "^18.0.0",
+    "three": "^0.170.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.6.1",

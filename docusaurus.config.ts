@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Learn Cloud',
-  tagline: 'STACKIT – Die deutsche Cloud für Unternehmen',
+  title: 'Learning Area',
+  tagline: 'Willkommen auf der Lernplattform für Cloud, AI und Data.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -85,6 +85,11 @@ const config: Config = {
           position: 'right',
         },
         {
+          href: 'https://docs.stackit.cloud',
+          label: 'Docs',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
           position: 'right',
@@ -130,6 +135,10 @@ const config: Config = {
             {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',
+            },
+            {
+              label: 'Metaverse',
+              to: '/metaverse',
             },
           ],
         },

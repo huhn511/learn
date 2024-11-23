@@ -1,0 +1,66 @@
+[
+    {
+      "questionText": "Welche der folgenden Aussagen beschreibt am besten die Cloud?",
+      "answerOptions": [
+        { "answerText": "Ein physischer Server im Büro.", "isCorrect": false },
+        { "answerText": "Ein Netzwerk aus Servern, das über das Internet zugänglich ist.", "isCorrect": true },
+        { "answerText": "Ein Computer, der von Mitarbeitern zu Hause genutzt wird.", "isCorrect": false },
+        { "answerText": "Ein lokaler Datenspeicher ohne Internetzugang.", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Welches Cloud-Modell kombiniert Public und Private Cloud?",
+      "answerOptions": [
+        { "answerText": "Public Cloud", "isCorrect": false },
+        { "answerText": "Private Cloud", "isCorrect": false },
+        { "answerText": "Hybrid Cloud", "isCorrect": true },
+        { "answerText": "Community Cloud", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Welcher Vorteil ist typisch für die Nutzung von Public Cloud-Diensten?",
+      "answerOptions": [
+        { "answerText": "Hohe Kontrolle über die gesamte IT-Infrastruktur.", "isCorrect": false },
+        { "answerText": "Niedrige Startkosten und einfache Skalierbarkeit.", "isCorrect": true },
+        { "answerText": "Exklusive Nutzung dedizierter Hardware.", "isCorrect": false },
+        { "answerText": "Keine Abhängigkeit von einem externen Anbieter.", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Welcher deutsche Cloud-Anbieter ist für seine DSGVO-konforme Infrastruktur bekannt?",
+      "answerOptions": [
+        { "answerText": "AWS", "isCorrect": false },
+        { "answerText": "Google Cloud", "isCorrect": false },
+        { "answerText": "STACKIT", "isCorrect": true },
+        { "answerText": "Microsoft Azure", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Welche Aussage beschreibt am besten die SaaS-Dienste (Software as a Service)?",
+      "answerOptions": [
+        { "answerText": "Bereitstellung von virtuellen Maschinen und Netzwerken.", "isCorrect": false },
+        { "answerText": "Plattformen zur Entwicklung eigener Anwendungen.", "isCorrect": false },
+        { "answerText": "Fertige Softwarelösungen, die über das Internet genutzt werden.", "isCorrect": true },
+        { "answerText": "Verkauf von Hardware-Komponenten.", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Welche Sicherheitsmaßnahme ist für Cloud-Dienste besonders wichtig?",
+      "answerOptions": [
+        { "answerText": "Regelmäßige physische Kontrolle der Server.", "isCorrect": false },
+        { "answerText": "End-to-End-Verschlüsselung von Daten.", "isCorrect": true },
+        { "answerText": "Reduzierung des Internetzugangs.", "isCorrect": false },
+        { "answerText": "Komplette Isolation von Netzwerken.", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Welches Prinzip beschreibt die Skalierbarkeit der Cloud?",
+      "answerOptions": [
+        { "answerText": "Ressourcen werden manuell durch Techniker angepasst.", "isCorrect": false },
+        { "answerText": "Ressourcen können je nach Bedarf automatisch hoch- oder herunterskaliert werden.", "isCorrect": true },
+        { "answerText": "Es gibt immer eine feste Anzahl an Ressourcen.", "isCorrect": false },
+        { "answerText": "Nur Software kann skaliert werden, nicht Hardware.", "isCorrect": false }
+      ]
+    }
+  ]
+  
