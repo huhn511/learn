@@ -1,0 +1,65 @@
+[
+  {
+  "questionText": "Which of the following statements best describes the cloud?",
+  "answerOptions": [
+  { "answerText": "A physical server in the office.", "isCorrect": false },
+  { "answerText": "A network of servers accessible via the Internet.", "isCorrect": true },
+  { "answerText": "A computer used by employees at home.", "isCorrect": false },
+  { "answerText": "A local data storage without Internet access.", "isCorrect": false }
+  ]
+  },
+  {
+  "questionText": "Which cloud model combines public and private cloud?",
+  "answerOptions": [
+  { "answerText": "Public Cloud", "isCorrect": false },
+  { "answerText": "Private Cloud", "isCorrect": false },
+  { "answerText": "Hybrid Cloud", "isCorrect": true },
+  { "answerText": "Community Cloud", "isCorrect": false }
+  ]
+  },
+  {
+  "questionText": "What is the typical advantage of using public cloud services?",
+  "answerOptions": [
+  { "answerText": "High control over the entire IT infrastructure.", "isCorrect": false },
+  { "answerText": "Low start-up costs and easy scalability.", "isCorrect": true },
+  { "answerText": "Exclusive use of dedicated hardware.", "isCorrect": false },
+  { "answerText": "No dependence on an external provider.", "isCorrect": false }
+  ]
+  },
+  {
+  "questionText": "Which German cloud provider is known for its GDPR-compliant infrastructure?",
+  "answerOptions": [
+  { "answerText": "AWS", "isCorrect": false },
+  { "answerText": "Google Cloud", "isCorrect": false },
+  { "answerText": "STACKIT", "isCorrect": true },
+  { "answerText": "Microsoft Azure", "isCorrect": false }
+  ]
+  },
+  {
+  "questionText": "Which statement best describes SaaS services (Software as a Service)?",
+  "answerOptions": [
+  { "answerText": "Provision of virtual machines and networks.", "isCorrect": false },
+  { "answerText": "Platforms for developing your own applications.", "isCorrect": false },
+  { "answerText": "Ready-made software solutions that are used over the Internet.", "isCorrect": true },
+  { "answerText": "Sale of hardware components.", "isCorrect": false }
+  ]
+  },
+  {
+  "questionText": "Which security measure is particularly important for cloud services?",
+  "answerOptions": [
+  { "answerText": "Regular physical inspection of servers.", "isCorrect": false },
+  { "answerText": "End-to-end encryption of data.", "isCorrect": true },
+  { "answerText": "Reduction of Internet access.", "isCorrect": false },
+  { "answerText": "Complete isolation of networks.", "isCorrect": false }
+  ]
+  },
+  {
+  "questionText": "Which principle describes the scalability of the cloud?",
+  "answerOptions": [
+  { "answerText": "Resources are manually adjusted by technicians.", "isCorrect": false },
+  { "answerText": "Resources can be automatically scaled up or down as needed.", "isCorrect": true },
+  { "answerText": "There is always a fixed number of resources.", "isCorrect": false },
+  { "answerText": "Only software can be scaled, not hardware.", "isCorrect": false }
+  ]
+  }
+  ]
